@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 aaaaaaaaaaaaaaa
-=======
 dddddddddd
->>>>>>> a36435c (New Words)
+dddddddddd
+llllll
